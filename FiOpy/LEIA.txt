@@ -1,0 +1,27 @@
+# 🎵 YouTube Audio Downloader
+
+Sistema simples para realizar o download de áudio de vídeos do YouTube através do terminal.
+
+## 📋 Requisitos
+
+Antes de utilizar o sistema, é necessário ter o Python instalado em seu computador.
+Baixe a versão mais recente do Python compatível com seu sistema operacional.
+
+## 🚀 Como Utilizar
+Todos os comandos utilizam um prefixo obrigatório,
+Caso tenha dúvidas sobre os comandos disponíveis, utilize: $Commands
+
+## 🎧 Download de Áudio
+
+1. Ao iniciar o programa, informe a URL do vídeo do YouTube desejado.
+2. Em seguida, informe o diretório onde o arquivo de áudio será salvo.
+3. Você pode escolher qualquer pasta do seu computador.
+
+### Pasta Downloads
+Para facilitar os testes, o projeto já possui uma pasta chamada **Downloads**.
+Basta copiar o caminho completo dessa pasta e colá-lo quando o sistema solicitar o diretório de instalação.
+
+
+✅ O áudio será baixado automaticamente para a pasta escolhida.
+
+© RaphaelFiore 2024-Present
