@@ -10,7 +10,7 @@ Sistema simples para baixar o áudio de vídeos do YouTube através do terminal.
 2. Execute o programa:
 
 ```bash
-python main.py
+python Os.py
 ```
 
 ## 📖 Como Usar
